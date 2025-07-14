@@ -13,7 +13,7 @@ Este conteúdo pode ser utilizado como material educativo para:
 
 ## Como usar
 
-Você pode copiar o conteúdo do arquivo `.md` para seu site, aula, ou converter para HTML
+Você pode copiar o conteúdo do arquivo  para seu site, aula.
 
 ## Sugestões futuras
 
